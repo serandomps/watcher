@@ -3,8 +3,7 @@
     "description": "utils component",
     "local": [],
     "scripts": [
-        "index.js",
-        "permissions.js"
+        "index.js"
     ],
     "main": "index.js",
     "dependencies": {
