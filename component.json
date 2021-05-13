@@ -1,6 +1,6 @@
 {
-    "name": "utils",
-    "description": "utils component",
+    "name": "watcher",
+    "description": "watcher component",
     "local": [],
     "scripts": [
         "index.js"
