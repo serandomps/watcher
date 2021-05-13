@@ -1,0 +1,13 @@
+{
+    "name": "utils",
+    "description": "utils component",
+    "local": [],
+    "scripts": [
+        "index.js",
+        "permissions.js"
+    ],
+    "main": "index.js",
+    "dependencies": {
+        "tj/node-querystring": "*"
+    }
+}
